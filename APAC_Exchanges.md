@@ -6,6 +6,8 @@
 [Fixmate](https://fiximate.fixtrading.org/)<br />
 [FIX Trading Github](https://github.com/FIXTradingCommunity)<br />
 
+https://www.fixtrading.org/online-specification/
+https://www.fixtrading.org/standards/
 
 -------------------------------------------------------------
 
