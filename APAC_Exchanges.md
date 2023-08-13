@@ -16,8 +16,11 @@
 [Fixmate](https://fiximate.fixtrading.org/)<br />
 [FIX Trading Github](https://github.com/FIXTradingCommunity)<br />
 
+### Packet Capture Samples
+[WS captures](https://moin-wiki.wireshark.org/SampleCaptures)
+
 -------------------------------------------------------------
-### AU<br />
+### --AU<br />
 #### ASX<br />
 [Technical Specs](https://www.asxonline.com/public/documents/asx-trade-technical-library.html)<br />
 [ASXTrading Platform Guide](https://www.asx.com.au/documents/products/asx-24-trading-platform-guide.pdf)<br />
@@ -26,7 +29,7 @@
 [CBOE au Technical Specs](https://www.cboe.com/au/equities/support/technical/)<br />
 
 -------------------------------------------------------------
-### JP<br />
+### --JP<br />
 #### JPX<br />
 [JPX Systems](https://www.jpx.co.jp/english/systems/index.html)<br />
 [JPX Specs](https://faqsd.jpx.co.jp/faq/show/3984?site_domain=en_application)<br />
@@ -47,13 +50,13 @@
 [Halts/Stock Dir](https://www.japannext.co.jp/en/trading)<br />
 
 -------------------------------------------------------------
-### HK<br />
+### --HK<br />
 #### HKEX<br />
 [OCG Technical Specs](https://www.hkex.com.hk/Mutual-Market/Stock-Connect/Reference-Materials/Technical-Documents?sc_lang=en)<br />
 [CCCG Technical Specs](https://www.hkex.com.hk/Mutual-Market/Stock-Connect/Reference-Materials/Technical-Documents/CCCG-Specifications?sc_lang=en)<br />
 
 -------------------------------------------------------------
-### TW<br />
+### --TW<br />
 #### TWSE
 [TWSE Services](https://www.twse.com.tw/en/about/company/service.html)<br />
 
