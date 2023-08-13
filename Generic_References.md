@@ -3,11 +3,6 @@
 [Trading Hours](https://www.tradinghours.com/markets)<br />
 [Investopedia markets](https://www.investopedia.com/ask/answers/040115/when-do-stock-market-exchanges-close.asp) <br />
 
-### FIX Protocol Tags<br />
-[Fix Tags ONIX](https://www.onixs.biz/fix-dictionary/4.4/fields_by_tag.html)<br />
-[Fixmate](https://fiximate.fixtrading.org/)<br />
-[FIX Trading Github](https://github.com/FIXTradingCommunity)<br />
-
 -------------------------------------------------------------
 ### World Clock & Holidays<br />
 [World Clock](https://www.timeanddate.com/worldclock/personal.html?cities=179,136,248,102,236,176)<br />
