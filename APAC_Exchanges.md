@@ -1,6 +1,6 @@
 # Exchange Connectvity specifications
 
-## Markets Generic
+### Markets Generic
 [Trading Hours](https://www.tradinghours.com/markets)<br />
 [Investopedia markets](https://www.investopedia.com/ask/answers/040115/when-do-stock-market-exchanges-close.asp) <br />
 
