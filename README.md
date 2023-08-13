@@ -1,2 +1,2 @@
-### Exchange_Connectivity protocols references
+### Exchange Connectivity protocols references
  
