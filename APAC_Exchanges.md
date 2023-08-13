@@ -1,12 +1,12 @@
 # Exchange Connectvity specifications
 
-## == Markets Generic ==
-[trading Hours](https://www.tradinghours.com/markets)
-[Investopedia markets] (https://www.investopedia.com/ask/answers/040115/when-do-stock-market-exchanges-close.asp)
+## ==Markets Generic==
+[trading Hours](https://www.tradinghours.com/markets)<br />
+[Investopedia markets] (https://www.investopedia.com/ask/answers/040115/when-do-stock-market-exchanges-close.asp) <br />
 
-##World Clock & Holidays
-https://www.timeanddate.com/worldclock/personal.html?cities=179,136,248,102,236,176
-https://www.timeanddate.com/calendar/?year=2023&country=26
+## World Clock & Holidays<br />
+(https://www.timeanddate.com/worldclock/personal.html?cities=179,136,248,102,236,176)<br />
+https://www.timeanddate.com/calendar/?year=2023&country=26<br />
 
 ##Currency Converer
 https://finance.yahoo.com/currency-converter/
