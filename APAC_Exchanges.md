@@ -1,62 +1,61 @@
 # Exchange Connectvity specifications
 
 ## Markets Generic
-[trading Hours](https://www.tradinghours.com/markets)<br />
+[Trading Hours](https://www.tradinghours.com/markets)<br />
 [Investopedia markets](https://www.investopedia.com/ask/answers/040115/when-do-stock-market-exchanges-close.asp) <br />
 
 ## World Clock & Holidays<br />
-(https://www.timeanddate.com/worldclock/personal.html?cities=179,136,248,102,236,176)<br />
-https://www.timeanddate.com/calendar/?year=2023&country=26<br />
+[World Clock](https://www.timeanddate.com/worldclock/personal.html?cities=179,136,248,102,236,176)<br />
+[Holidays](https://www.timeanddate.com/calendar/?year=2023&country=26<br />
 
 ## Currency Converer<br />
-https://finance.yahoo.com/currency-converter/
+[Currency converter](https://finance.yahoo.com/currency-converter/)<br />
 
 ## FIX Protocol Tags<br />
-https://www.onixs.biz/fix-dictionary/4.4/fields_by_tag.html
-https://fiximate.fixtrading.org/
-https://github.com/FIXTradingCommunity
+[Fix Tags ONIX](https://www.onixs.biz/fix-dictionary/4.4/fields_by_tag.html)<br />
+[Fixmate](https://fiximate.fixtrading.org/)<br />
+[FIX Trading Github](https://github.com/FIXTradingCommunity)<br />
 
 
 ## AU<br />
 ### ASX<br />
-https://www.asxonline.com/public/documents/asx-trade-technical-library.html
-https://www.asx.com.au/documents/products/asx-24-trading-platform-guide.pdf
+[Technical Specs](https://www.asxonline.com/public/documents/asx-trade-technical-library.html<br />
+[ASXTrading Platform Guide](https://www.asx.com.au/documents/products/asx-24-trading-platform-guide.pdf<br />
 
 ### Cboe AU<br />
-https://www.cboe.com/au/equities/support/technical/
+[CBOE au Technical Specs](https://www.cboe.com/au/equities/support/technical/<br />
 
 
 ## JP<br />
 ### JPX<br />
-https://www.jpx.co.jp/english/systems/index.html
-https://faqsd.jpx.co.jp/faq/show/3984?site_domain=en_application
+[JPX Systems](https://www.jpx.co.jp/english/systems/index.html<br />
+[JPX Specs](https://faqsd.jpx.co.jp/faq/show/3984?site_domain=en_application<br />
 
-https://www.jpx.co.jp/english/markets/equities/suspended/index.html
-https://www.jpx.co.jp/english/markets/equities/ss-reg/index.html
+[JPX Suspended](https://www.jpx.co.jp/english/markets/equities/suspended/index.html<br />
+[JPX SS_CB](https://www.jpx.co.jp/english/markets/equities/ss-reg/index.html<br />
 
-https://www.jpx.co.jp/english/derivatives/rules/index.html
+[JPX Derivatives](https://www.jpx.co.jp/english/derivatives/rules/index.html<br />
 
 ### Cboe-jp<br />
-https://www.cboe.co.jp/en/get-connected/
-https://www.cboe.co.jp/en/get-connected/get-connected-library/
+[Stock Dir](https://www.cboe.co.jp/en/get-connected/)<br />
+[Technical Specs Library](https://www.cboe.co.jp/en/get-connected/get-connected-library/)<br />
 
--Cboe Tech Migration<br />
-https://assets.website-files.com/62a7b0d177e4ab9ab3537a6e/62fabd1585594085f64e361a_Cboe%20Japan%20Technology%20Migration%20Overview%2C%20FINAL%20ENGLISH.pdf
+-[Cboe Tech Migration](https://assets.website-files.com/62a7b0d177e4ab9ab3537a6e/62fabd1585594085f64e361a_Cboe%20Japan%20Technology%20Migration%20Overview%2C%20FINAL%20ENGLISH.pdf)
 
 ### JNX<br />
-https://www.japannext.co.jp/
-https://www.japannext.co.jp/en/trading
+[Main page](https://www.japannext.co.jp/)<br />
+[Halts/Stock Dir](https://www.japannext.co.jp/en/trading)<br />
 
 ## HKEX<br />
-https://www.hkex.com.hk/Mutual-Market/Stock-Connect/Reference-Materials/Technical-Documents?sc_lang=en
-https://www.hkex.com.hk/Mutual-Market/Stock-Connect/Reference-Materials/Technical-Documents/CCCG-Specifications?sc_lang=en
+[OCG Technical Specs](https://www.hkex.com.hk/Mutual-Market/Stock-Connect/Reference-Materials/Technical-Documents?sc_lang=en)<br />
+[CCCG Technical Specs](https://www.hkex.com.hk/Mutual-Market/Stock-Connect/Reference-Materials/Technical-Documents/CCCG-Specifications?sc_lang=en)<br />
 
 ## TW<br />
-https://www.twse.com.tw/en/about/company/service.html
+[TWSE Services](https://www.twse.com.tw/en/about/company/service.html)<br />
 
 
 ## KRX<br />
-https://global.krx.co.kr/contents/GLB/04/0402/0402020000/GLB0402020000.jsp
+[KRX](https://global.krx.co.kr/contents/GLB/04/0402/0402020000/GLB0402020000.jsp)<br />
 
 
 
