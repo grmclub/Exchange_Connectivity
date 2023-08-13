@@ -47,7 +47,7 @@
 [Halts/Stock Dir](https://www.japannext.co.jp/en/trading)<br />
 
 -------------------------------------------------------------
-### HK
+### HK<br />
 #### HKEX<br />
 [OCG Technical Specs](https://www.hkex.com.hk/Mutual-Market/Stock-Connect/Reference-Materials/Technical-Documents?sc_lang=en)<br />
 [CCCG Technical Specs](https://www.hkex.com.hk/Mutual-Market/Stock-Connect/Reference-Materials/Technical-Documents/CCCG-Specifications?sc_lang=en)<br />
@@ -58,7 +58,7 @@
 [TWSE Services](https://www.twse.com.tw/en/about/company/service.html)<br />
 
 -------------------------------------------------------------
-### KR
+### KR<br />
 #### KRX<br />
 [KRX Services](https://global.krx.co.kr/contents/GLB/04/0402/0402020000/GLB0402020000.jsp)<br />
 
