@@ -1,8 +1,8 @@
 # Exchange Connectvity specifications
 
-## ==Markets Generic==
+## Markets Generic
 [trading Hours](https://www.tradinghours.com/markets)<br />
-[Investopedia markets] (https://www.investopedia.com/ask/answers/040115/when-do-stock-market-exchanges-close.asp) <br />
+[Investopedia markets](https://www.investopedia.com/ask/answers/040115/when-do-stock-market-exchanges-close.asp) <br />
 
 ## World Clock & Holidays<br />
 (https://www.timeanddate.com/worldclock/personal.html?cities=179,136,248,102,236,176)<br />
