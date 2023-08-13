@@ -1,5 +1,17 @@
 # Exchange Connectvity specifications
 
+##Markets Generic
+https://www.tradinghours.com/markets
+https://www.investopedia.com/ask/answers/040115/when-do-stock-market-exchanges-close.asp
+
+##World Clock & Holidays
+https://www.timeanddate.com/worldclock/personal.html?cities=179,136,248,102,236,176
+https://www.timeanddate.com/calendar/?year=2023&country=26
+
+##Currency Converer
+https://finance.yahoo.com/currency-converter/
+
+
 ##AU
 ###ASX
 https://www.asxonline.com/public/documents/asx-trade-technical-library.html
