@@ -19,22 +19,22 @@
 
 ### AU<br />
 #### ASX<br />
-[Technical Specs](https://www.asxonline.com/public/documents/asx-trade-technical-library.html<br />
-[ASXTrading Platform Guide](https://www.asx.com.au/documents/products/asx-24-trading-platform-guide.pdf<br />
+[Technical Specs](https://www.asxonline.com/public/documents/asx-trade-technical-library.html)<br />
+[ASXTrading Platform Guide](https://www.asx.com.au/documents/products/asx-24-trading-platform-guide.pdf)<br />
 
-### Cboe AU<br />
-[CBOE au Technical Specs](https://www.cboe.com/au/equities/support/technical/<br />
+#### Cboe AU<br />
+[CBOE au Technical Specs](https://www.cboe.com/au/equities/support/technical/)<br />
 
 
 ### JP<br />
 #### JPX<br />
-[JPX Systems](https://www.jpx.co.jp/english/systems/index.html<br />
-[JPX Specs](https://faqsd.jpx.co.jp/faq/show/3984?site_domain=en_application<br />
+[JPX Systems](https://www.jpx.co.jp/english/systems/index.html)<br />
+[JPX Specs](https://faqsd.jpx.co.jp/faq/show/3984?site_domain=en_application)<br />
 
-[JPX Suspended](https://www.jpx.co.jp/english/markets/equities/suspended/index.html<br />
-[JPX SS_CB](https://www.jpx.co.jp/english/markets/equities/ss-reg/index.html<br />
+[JPX Suspended](https://www.jpx.co.jp/english/markets/equities/suspended/index.html)<br />
+[JPX SS_CB](https://www.jpx.co.jp/english/markets/equities/ss-reg/index.html)<br />
 
-[JPX Derivatives](https://www.jpx.co.jp/english/derivatives/rules/index.html<br />
+[JPX Derivatives](https://www.jpx.co.jp/english/derivatives/rules/index.html)<br />
 
 #### Cboe-jp<br />
 [Stock Dir](https://www.cboe.co.jp/en/get-connected/)<br />
