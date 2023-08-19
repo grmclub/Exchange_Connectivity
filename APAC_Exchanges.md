@@ -24,7 +24,7 @@ https://www.fixtrading.org/standards/
 #### JPX<br />
 
 --Trading Info <br/>
-[New Listing/Transfer/Deliating](https://www.jpx.co.jp/english/listing/stocks/index.html)
+[New Listing/Transfer/Delisting](https://www.jpx.co.jp/english/listing/stocks/index.html)<br />
 [JPX Suspended](https://www.jpx.co.jp/english/markets/equities/suspended/index.html)<br />
 [JPX SS_CB](https://www.jpx.co.jp/english/markets/equities/ss-reg/index.html)<br />
 
