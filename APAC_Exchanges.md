@@ -22,11 +22,16 @@ https://www.fixtrading.org/standards/
 -------------------------------------------------------------
 ### --JP<br />
 #### JPX<br />
-[JPX Systems](https://www.jpx.co.jp/english/systems/index.html)<br />
-[JPX Specs](https://faqsd.jpx.co.jp/faq/show/3984?site_domain=en_application)<br />
 
+--Trading Info <br/>
+[New Listing/Transfer/Deliating](https://www.jpx.co.jp/english/listing/stocks/index.html)
 [JPX Suspended](https://www.jpx.co.jp/english/markets/equities/suspended/index.html)<br />
 [JPX SS_CB](https://www.jpx.co.jp/english/markets/equities/ss-reg/index.html)<br />
+
+--Specs <br/>
+[JPX Products](https://www.jpx.co.jp/english/equities/trading/index.html)
+[JPX Systems](https://www.jpx.co.jp/english/systems/index.html)<br />
+[JPX Specs](https://faqsd.jpx.co.jp/faq/show/3984?site_domain=en_application)<br />
 
 [JPX Derivatives](https://www.jpx.co.jp/english/derivatives/rules/index.html)<br />
 
