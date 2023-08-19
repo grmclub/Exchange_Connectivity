@@ -6,7 +6,7 @@
 [Fixmate](https://fiximate.fixtrading.org/)<br />
 [FIX Trading Github](https://github.com/FIXTradingCommunity)<br />
 
-https://www.fixtrading.org/online-specification/
+https://www.fixtrading.org/online-specification/<br />
 https://www.fixtrading.org/standards/
 
 -------------------------------------------------------------
@@ -25,15 +25,15 @@ https://www.fixtrading.org/standards/
 
 --Trading Info <br/>
 [New Listing/Transfer/Delisting](https://www.jpx.co.jp/english/listing/stocks/index.html)<br />
-[Market Alerts](https://www.jpx.co.jp/english/listing/market-alerts/index.html)
-[Market News](https://www.jpx.co.jp/english/news/index.html)
+[Market Alerts](https://www.jpx.co.jp/english/listing/market-alerts/index.html)<br />
+[Market News](https://www.jpx.co.jp/english/news/index.html)<br />
 
-[Supervision/Delisting](https://www.jpx.co.jp/english/listing/market-alerts/supervision/index.html)
+[Supervision/Delisting](https://www.jpx.co.jp/english/listing/market-alerts/supervision/index.html)<br />
 [JPX Suspended](https://www.jpx.co.jp/english/markets/equities/suspended/index.html)<br />
 [JPX SS_CB](https://www.jpx.co.jp/english/markets/equities/ss-reg/index.html)<br />
 
 --Specs <br/>
-[JPX Products](https://www.jpx.co.jp/english/equities/trading/index.html)
+[JPX Products](https://www.jpx.co.jp/english/equities/trading/index.html)<br />
 [JPX Systems](https://www.jpx.co.jp/english/systems/index.html)<br />
 [JPX Specs](https://faqsd.jpx.co.jp/faq/show/3984?site_domain=en_application)<br />
 
