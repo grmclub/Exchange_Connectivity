@@ -23,6 +23,18 @@ https://www.fixtrading.org/standards/
 ### --JP<br />
 #### JPX<br />
 
+--JPX docs & contacts
+https://faqsd.jpx.co.jp/faq/show/7661?category_id=498&site_domain=en_application
+https://www.jpx.co.jp/english/corporate/research-study/system-failure/b5b4pj000003rlat-att/wg5_english.pdf
+https://portal.arrowfront.jp/target/x/tsebps/webportal/top.html
+
+--order types
+https://www.jpx.co.jp/english/equities/trading/domestic/04.html
+https://www.jpx.co.jp/english/equities/index.html
+https://www.jpx.co.jp/english/listing/index.html
+
+
+
 --Trading Info <br/>
 [New Listing/Transfer/Delisting](https://www.jpx.co.jp/english/listing/stocks/index.html)<br />
 [Market Alerts](https://www.jpx.co.jp/english/listing/market-alerts/index.html)<br />
