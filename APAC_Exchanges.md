@@ -66,7 +66,7 @@ https://www.jpx.co.jp/english/listing/index.html
 #### HKEX<br />
 [OCG Technical Specs](https://www.hkex.com.hk/Mutual-Market/Stock-Connect/Reference-Materials/Technical-Documents?sc_lang=en)<br />
 [CCCG Technical Specs](https://www.hkex.com.hk/Mutual-Market/Stock-Connect/Reference-Materials/Technical-Documents/CCCG-Specifications?sc_lang=en)<br />
-
+[HKEX Infra](https://www.hkex.com.hk/Services/Trading/Securities/Infrastructure/Overview?sc_lang=en)<br />
 -------------------------------------------------------------
 ### --TW<br />
 #### TWSE
