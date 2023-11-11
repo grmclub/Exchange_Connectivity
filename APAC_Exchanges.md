@@ -40,31 +40,35 @@ Tel: +81-6-4706-0800<br />
 ------------------------
 https://faqsd.jpx.co.jp/category/show/500?site_domain=en_application
 <pre>
-Application Procedure contact
+*Application Procedure contact
 Open Hours: Business day 9:00 am - 6:30 pm
 TEL: 0570-064-054
-            *Charged Call
-  (*IP-phone: +81-50-3819-1070)
+*Charged Call
+(*IP-phone: +81-50-3819-1070)
 Email: servicedesk@jpx.co.jp
-arrownet support contact
+
+*arrownet support contact
 Open Hours: 24Hours
 TEL: +81-50-3819-1030
 Email: arrownet_support@jpx.co.jp
-arrowhead/ToSTNeT contact
+
+*arrowhead/ToSTNeT contact
 Open Hours: Business day 7:00 am - 6:30 pm
 TEL: +81-50-3822-8882
 Email: arrowhead@jpx.co.jp
-J-GATE contact
+
+*J-GATE contact
 Open Hours: 24Hours
 TEL: 0570-550-815
-            *Charged Call
-  (*IP-phone: +81-50-3822-8900)
+*Charged Call
+(*IP-phone: +81-50-3822-8900)
 Email: j-gate3@jpx.co.jp
-Clearing contact
+
+*Clearing contact
 Open Hours: Business day 9:00 am - 5:00 pm
 TEL: 0570-064-059
-            *Charged Call
-  (*IP-phone: +81-50-3819-1076)
+*Charged Call
+(*IP-phone: +81-50-3819-1076)
 Email: servicedesk_clearing@jpx.co.jp
 </pre>
 
