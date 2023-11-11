@@ -24,6 +24,19 @@ https://www.fixtrading.org/standards/
 #### JPX<br />
 
 --JPX docs & contacts
+
+https://www.jpx.co.jp/english/corporate/about-jpx/access/index.html<br />
+2-1 Nihombashi Kabutocho, Chuo-ku, Tokyo 103-8224, Japan<br />
+
+Japan Exchange Group, Inc. (Head Office)<br />
+Tel: +81-3-3666-1361<br />
+
+Tokyo Stock Exchange, Inc.<br />
+Tel: +81-3-3666-0141<br />
+
+Osaka Exchange, Inc. (Tokyo Branch)<br />
+Tel: +81-6-4706-0800<br />
+
 https://faqsd.jpx.co.jp/faq/show/7661?category_id=498&site_domain=en_application<br />
 https://www.jpx.co.jp/english/corporate/research-study/system-failure/b5b4pj000003rlat-att/wg5_english.pdf<br />
 https://portal.arrowfront.jp/target/x/tsebps/webportal/top.html<br />
@@ -58,13 +71,21 @@ https://www.jpx.co.jp/english/listing/index.html<br />
 
 -[Cboe Tech Migration](https://assets.website-files.com/62a7b0d177e4ab9ab3537a6e/62fabd1585594085f64e361a_Cboe%20Japan%20Technology%20Migration%20Overview%2C%20FINAL%20ENGLISH.pdf)
 
+https://www.cboe.co.jp/en/contact/<br />
+tradedeskjp@cboe.com<br />
++81 3 6366 8833<br />
+
+
 #### JNX<br />
 [Main page](https://www.japannext.co.jp/)<br />
 [Halts/Stock Dir](https://www.japannext.co.jp/en/trading)<br />
 
+Our support contact number is +81-3-4577-4040<br />
+
 -------------------------------------------------------------
 ### --HK<br />
 #### HKEX<br />
+
 [OCG Technical Specs](https://www.hkex.com.hk/Mutual-Market/Stock-Connect/Reference-Materials/Technical-Documents?sc_lang=en)<br />
 [CCCG Technical Specs](https://www.hkex.com.hk/Mutual-Market/Stock-Connect/Reference-Materials/Technical-Documents/CCCG-Specifications?sc_lang=en)<br />
 [HKEX Infra](https://www.hkex.com.hk/Services/Trading/Securities/Infrastructure/Overview?sc_lang=en)<br />
