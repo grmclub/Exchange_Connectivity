@@ -38,8 +38,8 @@ Osaka Exchange, Inc. (Tokyo Branch)<br />
 Tel: +81-6-4706-0800<br />
 
 ------------------------
-<pre>
 https://faqsd.jpx.co.jp/category/show/500?site_domain=en_application
+<pre>
 Application Procedure contact
 Open Hours: Business day 9:00 am - 6:30 pm
 TEL: 0570-064-054
