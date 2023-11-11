@@ -72,12 +72,12 @@ TEL: 0570-064-059
 Email: servicedesk_clearing@jpx.co.jp
 </pre>
 
-
+https://portal.arrowfront.jp/target/x/tsebps/webportal/top.html<br />
 https://faqsd.jpx.co.jp/faq/show/7661?category_id=498&site_domain=en_application<br />
 https://www.jpx.co.jp/english/corporate/research-study/system-failure/b5b4pj000003rlat-att/wg5_english.pdf<br />
 https://portal.arrowfront.jp/target/x/tsebps/webportal/top.html<br />
 
---order types
+--order types<br />
 https://www.jpx.co.jp/english/equities/trading/domestic/04.html<br />
 https://www.jpx.co.jp/english/equities/index.html<br />
 https://www.jpx.co.jp/english/listing/index.html<br />
