@@ -24,14 +24,14 @@ https://www.fixtrading.org/standards/
 #### JPX<br />
 
 --JPX docs & contacts
-https://faqsd.jpx.co.jp/faq/show/7661?category_id=498&site_domain=en_application
-https://www.jpx.co.jp/english/corporate/research-study/system-failure/b5b4pj000003rlat-att/wg5_english.pdf
-https://portal.arrowfront.jp/target/x/tsebps/webportal/top.html
+https://faqsd.jpx.co.jp/faq/show/7661?category_id=498&site_domain=en_application<br />
+https://www.jpx.co.jp/english/corporate/research-study/system-failure/b5b4pj000003rlat-att/wg5_english.pdf<br />
+https://portal.arrowfront.jp/target/x/tsebps/webportal/top.html<br />
 
 --order types
-https://www.jpx.co.jp/english/equities/trading/domestic/04.html
-https://www.jpx.co.jp/english/equities/index.html
-https://www.jpx.co.jp/english/listing/index.html
+https://www.jpx.co.jp/english/equities/trading/domestic/04.html<br />
+https://www.jpx.co.jp/english/equities/index.html<br />
+https://www.jpx.co.jp/english/listing/index.html<br />
 
 
 
@@ -53,7 +53,7 @@ https://www.jpx.co.jp/english/listing/index.html
 
 #### Cboe-jp<br />
 [Stock Dir](https://www.cboe.co.jp/en/get-connected/)<br />
-[Technical Specs Library] (https://www.cboe.co.jp/en/get-connected/)<br />
+[Technical Specs Library](https://www.cboe.co.jp/en/get-connected/)<br />
 [Old Specs](https://www.cboe.co.jp/en/get-connected/get-connected-library/)<br />
 
 -[Cboe Tech Migration](https://assets.website-files.com/62a7b0d177e4ab9ab3537a6e/62fabd1585594085f64e361a_Cboe%20Japan%20Technology%20Migration%20Overview%2C%20FINAL%20ENGLISH.pdf)
