@@ -5,6 +5,7 @@ https://www.investopedia.com/financial-term-dictionary-4769738<br />
 https://www.stash.com/learn/stock-market-terms/<br />
 https://www.nirmalbang.com/knowledge-center/stock-market-terminology.html<br />
 https://www.samco.in/knowledge-center/articles/stock-market-terms/<br />
+https://en.wikipedia.org/wiki/List_of_financial_performance_measures
 
 --Brokers & Markets<br />
 https://www.nasdaq.com/glossary<br />
@@ -18,6 +19,8 @@ https://www.forbes.com/uk/advisor/investing/investment-glossary-your-a-z-of-term
 --Misc Trading Terminology <br />
 https://www.japanesepod101.com/japanese-vocabulary-lists/trade<br />
 
+--Misc Exchanges<br />
+https://en.wikipedia.org/wiki/List_of_Asian_stock_exchanges<br />
 
 
 -------------------------------------------------------------
@@ -25,9 +28,19 @@ https://www.japanesepod101.com/japanese-vocabulary-lists/trade<br />
 
 https://en.wikipedia.org/wiki/List_of_electronic_trading_protocols<br />
 https://en.wikipedia.org/wiki/Inet <br />
+https://en.wikipedia.org/wiki/FIXatdl<br />
 
 
 -------------------------------------------------------------
+https://en.wikipedia.org/wiki/Blockchain<br />
+https://en.wikipedia.org/wiki/Lists_of_network_protocols<br />
+https://en.wikipedia.org/wiki/List_of_network_protocol_stacks<br />
+https://en.wikipedia.org/wiki/List_of_network_protocols_(OSI_model)<br />
+https://en.wikipedia.org/wiki/Routing_protocol<br />
+
+
+
+
 -------------------------------------------------------------
 
 -------------------------------------------------------------
