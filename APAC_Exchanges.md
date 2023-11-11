@@ -26,6 +26,7 @@ https://www.fixtrading.org/standards/
 --JPX docs & contacts
 
 https://www.jpx.co.jp/english/corporate/about-jpx/access/index.html<br />
+<pre>
 2-1 Nihombashi Kabutocho, Chuo-ku, Tokyo 103-8224, Japan<br />
 
 Japan Exchange Group, Inc. (Head Office)<br />
@@ -36,9 +37,10 @@ Tel: +81-3-3666-0141<br />
 
 Osaka Exchange, Inc. (Tokyo Branch)<br />
 Tel: +81-6-4706-0800<br />
-
+</pre>
 ------------------------
 https://faqsd.jpx.co.jp/category/show/500?site_domain=en_application
+
 <pre>
 *Application Procedure contact
 Open Hours: Business day 9:00 am - 6:30 pm
@@ -125,6 +127,7 @@ Our support contact number is +81-3-4577-4040<br />
 [OCG Technical Specs](https://www.hkex.com.hk/Mutual-Market/Stock-Connect/Reference-Materials/Technical-Documents?sc_lang=en)<br />
 [CCCG Technical Specs](https://www.hkex.com.hk/Mutual-Market/Stock-Connect/Reference-Materials/Technical-Documents/CCCG-Specifications?sc_lang=en)<br />
 [HKEX Infra](https://www.hkex.com.hk/Services/Trading/Securities/Infrastructure/Overview?sc_lang=en)<br />
+
 -------------------------------------------------------------
 ### --TW<br />
 #### TWSE
