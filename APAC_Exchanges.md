@@ -37,6 +37,38 @@ Tel: +81-3-3666-0141<br />
 Osaka Exchange, Inc. (Tokyo Branch)<br />
 Tel: +81-6-4706-0800<br />
 
+------------------------
+<p>
+https://faqsd.jpx.co.jp/category/show/500?site_domain=en_application
+Application Procedure contact
+Open Hours: Business day 9:00 am - 6:30 pm
+TEL: 0570-064-054
+            *Charged Call
+  (*IP-phone: +81-50-3819-1070)
+Email: servicedesk@jpx.co.jp
+arrownet support contact
+Open Hours: 24Hours
+TEL: +81-50-3819-1030
+Email: arrownet_support@jpx.co.jp
+arrowhead/ToSTNeT contact
+Open Hours: Business day 7:00 am - 6:30 pm
+TEL: +81-50-3822-8882
+Email: arrowhead@jpx.co.jp
+J-GATE contact
+Open Hours: 24Hours
+TEL: 0570-550-815
+            *Charged Call
+  (*IP-phone: +81-50-3822-8900)
+Email: j-gate3@jpx.co.jp
+Clearing contact
+Open Hours: Business day 9:00 am - 5:00 pm
+TEL: 0570-064-059
+            *Charged Call
+  (*IP-phone: +81-50-3819-1076)
+Email: servicedesk_clearing@jpx.co.jp
+</p>
+
+
 https://faqsd.jpx.co.jp/faq/show/7661?category_id=498&site_domain=en_application<br />
 https://www.jpx.co.jp/english/corporate/research-study/system-failure/b5b4pj000003rlat-att/wg5_english.pdf<br />
 https://portal.arrowfront.jp/target/x/tsebps/webportal/top.html<br />
