@@ -108,6 +108,7 @@ https://www.jpx.co.jp/english/listing/index.html<br />
 [Old Specs](https://www.cboe.co.jp/en/get-connected/get-connected-library/)<br />
 https://cdn.cboe.com/resources/membership/CXJ_Equities_BOEv3_Specification.pdf <br />
 https://cdn.cboe.com/resources/membership/CXJ_Platform_Change_Matrix.pdf<br />
+https://www.cboe.co.jp/wp-content/uploads/sites/3/2019/06/JPCX-L3-D-002-Cboe-Japan-Trading-Interface-Specification-v1.6-43.docx.pdf <br />
 
 -[Cboe Tech Migration](https://assets.website-files.com/62a7b0d177e4ab9ab3537a6e/62fabd1585594085f64e361a_Cboe%20Japan%20Technology%20Migration%20Overview%2C%20FINAL%20ENGLISH.pdf)
 
