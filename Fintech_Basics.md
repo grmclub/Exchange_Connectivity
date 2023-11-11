@@ -15,7 +15,7 @@ https://www.ubs.com/global/en/assetmanagement/funds/glossary.html <br />
 https://www.deutsche-boerse.com/dbg-en/regulation/glossary-reg <br />
 https://www.forbes.com/uk/advisor/investing/investment-glossary-your-a-z-of-terms-acronyms/<br />
 
-
+#### Misc Trading Terminology <br />
 https://www.japanesepod101.com/japanese-vocabulary-lists/trade<br />
 -------------------------------------------------------------
 #### Exchange Protocols<br />
