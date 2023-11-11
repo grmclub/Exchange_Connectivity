@@ -27,16 +27,16 @@ https://www.fixtrading.org/standards/
 
 https://www.jpx.co.jp/english/corporate/about-jpx/access/index.html<br />
 <pre>
-2-1 Nihombashi Kabutocho, Chuo-ku, Tokyo 103-8224, Japan<br />
+2-1 Nihombashi Kabutocho, Chuo-ku, Tokyo 103-8224, Japan
 
-Japan Exchange Group, Inc. (Head Office)<br />
-Tel: +81-3-3666-1361<br />
+Japan Exchange Group, Inc. (Head Office)
+Tel: +81-3-3666-1361
 
-Tokyo Stock Exchange, Inc.<br />
-Tel: +81-3-3666-0141<br />
+Tokyo Stock Exchange, Inc.
+Tel: +81-3-3666-0141
 
-Osaka Exchange, Inc. (Tokyo Branch)<br />
-Tel: +81-6-4706-0800<br />
+Osaka Exchange, Inc. (Tokyo Branch)
+Tel: +81-6-4706-0800
 </pre>
 ------------------------
 https://faqsd.jpx.co.jp/category/show/500?site_domain=en_application
