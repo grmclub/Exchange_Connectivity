@@ -50,14 +50,20 @@ https://www.youtube.com/watch?v=rNl591__9zY
 Leveraging C++20/23 Features for Low Level Interactions - Jeffrey Erickson - CppCon 2024<br />
 https://www.youtube.com/watch?v=rfkSHxSoQVE&t=1176s
 
-CppCon 2016: Jason Turner “Practical Performance Practices"
+CppCon 2016: Jason Turner "Practical Performance Practices"<br />
 https://www.youtube.com/watch?v=uzF4u9KgUWI
+
+What is Low Latency C++? (Part 1) - Timur Doumler - CppNow 2023<br />
+https://www.youtube.com/watch?v=EzmNeAhWqVs&t=20s
+
+What is Low Latency C++? (Part 2) - Timur Doumler - CppNow 2023<br />
+https://www.youtube.com/watch?v=5uIsadq-nyk&t=21s
 
 ====================================
 The Speed Game: Automated Trading Systems in C++ - Carl Cook - Meeting C++ 2016<br />
 https://www.youtube.com/watch?v=ulOLGX3HNCI&list=PL8nBmR5eGh34AynaXik3rgiW3qK6FKXVq&index=49
 
-CppCon 2017: Carl Cook “When a Microsecond Is an Eternity: High Performance Trading Systems in C++”<br />
+CppCon 2017: Carl Cook "When a Microsecond Is an Eternity: High Performance Trading Systems in C++”<br />
 https://www.youtube.com/watch?v=NH1Tta7purM&t=2605s
  
 Pacific++ 2017: Carl Cook "Low Latency C++ for Fun and Profit"<br />
