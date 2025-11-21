@@ -9,6 +9,26 @@
 https://www.fixtrading.org/online-specification/<br />
 https://www.fixtrading.org/standards/
 
+####Stock Indexs
+https://www.google.com/finance/quote/NI225:INDEXNIKKEI
+https://www.google.com/finance/quote/000300:SHA
+https://www.msci.com/indexes/index/899903
+
+
+####index dashboards
+https://www.bloomberg.com/markets/stocks/world-indexes/asia-pacific
+https://www.cnbc.com/asia-markets/
+https://www.cnbc.com/markets/
+https://www.investing.com/
+https://finance.yahoo.com/markets/
+
+####Market news
+https://www.bloomberg.com/markets
+https://asia.nikkei.com/business/markets
+https://www.ft.com/asia-pacific
+https://finance.yahoo.com/
+https://finance.yahoo.co.jp/ 
+
 -------------------------------------------------------------
 
 ### --AU<br />
